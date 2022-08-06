@@ -2,5 +2,7 @@
 
 <h1>Some Important Link About This Project</h1>
 
-[ x ] <a hef="https://randomuser.me"> API link</a>
-- [ x ] Add delight to the experience when all tasks are complete :tada:
+- - https://randomuser.me :tada: Use For Api
+- - https://json2kt.com :tada: JSON to Kotlin Data Class Generator Online 
+- - https://reqres.in :tada: More Free Api
+- - https://github.com/square/picasso :tada: Load Image 
